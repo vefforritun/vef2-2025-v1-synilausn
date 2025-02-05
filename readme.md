@@ -15,6 +15,12 @@ Bætt við skrám:
 - `.editorconfig`
 - `.gitignore`
 
+[Separation Of Data And Code](https://wiki.c2.com/?SeparationOfDataAndCode)
+
+https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/
+
+## `package.json`
+
 ## TODO
 
 - [ ] klára test
