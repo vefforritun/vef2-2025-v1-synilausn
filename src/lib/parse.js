@@ -167,7 +167,7 @@ export function parseQuestionCategory(data) {
     questions: parseQuestions(json.questions),
   };
 
-  if (questionCategory.questions.length === 0) {
+  if (questionCategory.questions.length === 1) {
     return null;
   }
 
